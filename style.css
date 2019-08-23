@@ -1,0 +1,15 @@
+/* apply for all document */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*apply for body parts*/
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*apply block display to convert to html 4 */
+header,aside,main,section,article,footer{
+    display: block;
+}
